@@ -1,4 +1,4 @@
-# Engenharia de Software II — Prática de Git
+# Engenharia de Software II - Prática de Git
 
 Projeto de demonstração para a disciplina de Engenharia de Software II
 (Prof. Wagner Loch), usado para praticar controle de versão com Git e
@@ -48,7 +48,7 @@ O repositório usa três níveis de branch:
 
 - `main` — versão estável do projeto
 - `dev` — integração do trabalho da equipe
-- `feature/nome-da-funcionalidade` — desenvolvimento de cada funcionalidade
+- `feature/nome-da-funcionalidade` - desenvolvimento de cada funcionalidade
 
 Cada integrante cria sua branch a partir da `dev`, desenvolve a funcionalidade
 e abre um Pull Request de volta para a `dev`.

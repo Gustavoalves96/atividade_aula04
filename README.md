@@ -46,8 +46,8 @@ O andamento da implementação é acompanhado em [requisitos.MD](requisitos.MD).
 
 O repositório usa três níveis de branch:
 
-- `main` — versão estável do projeto
-- `dev` — integração do trabalho da equipe
+- `main` - versão estável do projeto
+- `dev` - integração do trabalho da equipe
 - `feature/nome-da-funcionalidade` - desenvolvimento de cada funcionalidade
 
 Cada integrante cria sua branch a partir da `dev`, desenvolve a funcionalidade
@@ -68,3 +68,5 @@ git push -u origin feature/minha-funcionalidade
 ## Equipe
 
 - Gustavo Alves
+- Carlos Zambrano
+- Gustavo Halal
